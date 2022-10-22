@@ -10,4 +10,4 @@
 
 
 
-### [Next Up: Theatre](https://trinlanae.github.io/All-About-Trin/Religion/Music/Band/Theatre)
+### [Next Up: Theatre](https://trinlanae.github.io/All-About-Trin/Theatre)
