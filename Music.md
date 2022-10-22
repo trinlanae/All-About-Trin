@@ -8,7 +8,7 @@
 
 
 ## [Jazmine Sullivan](https://www.youtube.com/watch?v=sJkaBKHie2o)
-
+![Jazmine Sullivan](https://th.bing.com/th/id/OIP.GsoNcqI74mwzWhEDrntGPAHaHa?w=182&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7)
 
 
 
