@@ -5,3 +5,6 @@
 ##### I took a choir class in middle school but didn't peak with my singing until high school.
 ##### I joined an offical choir my sophmore year, and loved it every sense.
 ##### Being choir taught me how to be more bold , and learn how memorize songs quickly. 
+
+
+## [Jazmine Sullivan](https://www.youtube.com/watch?v=sJkaBKHie2o)
