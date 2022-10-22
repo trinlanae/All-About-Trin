@@ -7,4 +7,6 @@
 ##### Being choir taught me how to be more bold , and learn how memorize songs quickly. 
 
 
-## [Jazmine Sullivan](https://www.youtube.com/watch?v=sJkaBKHie2o)
+## [Jazmine Sullivan](https://www.youtube.com/watch?v=sJkaBKHie2)
+
+#### [Next Up: Band](https://trinlanae.github.io/All-About-Trin/religion/Music/Band)
