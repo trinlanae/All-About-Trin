@@ -4,4 +4,4 @@
 ### My faith is what keeps me sane everyday even when life and all aspects of life our hitting me. 
 
 
-### [Next Up: Music](https://trinlanae.github.io/All-About-Trin/Religion/Music)
+### [Next Up: Music](https://trinlanae.github.io/All-About-Trin/Music)
