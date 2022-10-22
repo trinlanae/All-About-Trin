@@ -4,4 +4,4 @@
 ##### As I began to audition for more plays and musicials that my school hosted. My confidence became better, and I also built another family through working with my fellow actors.
 
 
-### [Back To Home Page](https://trinlanae.github.io/All-About-Trin)
+### [Next Up: Family and Friends](https://trinlanae.github.io/All-About-Trin/Familyandfriends)
