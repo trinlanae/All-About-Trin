@@ -17,4 +17,4 @@
 
 
 
-#### [Next Up: Band](https://trinlanae.github.io/All-About-Trin/religion/Music/Band)
+#### [Next Up: Band](https://trinlanae.github.io/All-About-Trin/Band)
