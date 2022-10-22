@@ -9,3 +9,16 @@ This website was created to show some personal facts about me and things that ha
 ##### Page 3 describes what **band** means to me and more specifically what role it played in my life. 
 ##### Page 4 describes what theatre means to me and what role it played in my life.
 ##### Page 5 describes what relationships like family and friends mean to me.
+
+
+#### A block of code 
+```
+# Python program to print list
+# without using loop
+ 
+a = [1, 2, 3, 4, 5]
+ 
+# printing the list using * operator separated
+# by comma
+print(*a)
+```
