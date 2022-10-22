@@ -6,4 +6,8 @@
 ##### During my band days I learned how to plan 5 different instruments, clarinet, tenor saxophone, baritone saxophone, euphonium, and the french horn.
 
 
+
+
+
+
 ### [Next Up: Theatre](https://trinlanae.github.io/All-About-Trin/Religion/Music/Band/Theatre)
