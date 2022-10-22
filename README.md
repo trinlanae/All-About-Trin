@@ -23,4 +23,4 @@ a = [1, 2, 3, 4, 5]
 print(*a)
 ```
 
-#### [NEXT PAGE- RELGION](https://trinlanae.github.io/religion)
+#### [NEXT PAGE- RELIGION](https://trinlanae.github.io/religion)
