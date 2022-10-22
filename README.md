@@ -22,3 +22,5 @@ a = [1, 2, 3, 4, 5]
 # by comma
 print(*a)
 ```
+
+#### [NEXT PAGE- RELGION](https://trinlanae.github.io/religion)
